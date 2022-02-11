@@ -5,4 +5,3 @@ Kita bisa menambahkan .gitignore dari awal pembuatan repository.
 ## Cara membuat .gitignore
 1. Buat file dengan nama '.gitignore'
 2. Masukkan nama file yang ingin di ignore kedalam file .gitignore, seperti berikut, dimana file bernama `file.txt` tidak akan masuk ke repo kita.![gitignore](/images/git_ignore.png)
-
