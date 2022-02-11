@@ -1,5 +1,7 @@
 # **Rangkuman Video 2 - *"[#2 BEKERJA DENGAN GITHUB](https://www.youtube.com/watch?v=Q3Id0DgcrXY&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf&index=2&ab_channel=WebProgrammingUNPAS)"***
+
 ## **Working with GITHUB**
+
 1. Buka website [GitHub](https://github.com), lalu lakukan sign-up.
 2. Setelah sign-up, silakan login ke akun yang baru dibuat.
 3. Klik **'Start a project'**, atau buat repository baru.
