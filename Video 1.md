@@ -1,4 +1,4 @@
-# **Rangkuman Video 1**
+# **Rangkuman Video 1 - *"[#1 APA ITU GIT & GITHUB?](https://www.youtube.com/watch?v=lTMZxWMjXQU&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf&index=1)"***
 ## **Apa itu GIT?**
 Git adalah sesuatu yang disebut sebagai *version control system (VCS)*, atau sesuatu yang mengelola suatu perubahan dari sebuah dokumen, program komputer, website atau kumpulan informasi lain.
 ### **Version Control System**
